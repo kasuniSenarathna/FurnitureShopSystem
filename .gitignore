@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+out/
+db.properties
+
+# Temporarily excluding view (UI) - backend push only
+src/main/java/com/furnitureshop/view/
